@@ -74,19 +74,14 @@ If anyone on your team has applied for a grant at the Web3 Foundation previously
 
 ### Team Code Repos
 
-* https://github.com/<your_organisation>
-* https://github.com/<your_organisation>/<project_1>
-* https://github.com/<your_organisation>/<project_2>
+* https://github.com/BitBadges
+* https://github.com/BitBadges/bitbadgesbackend
+* https://github.com/BitBadges/bitbadges.github.io
 
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+Please also provide the GitHub accounts of all team members.
 
-* https://github.com/<team_member_1>
-* https://github.com/<team_member_2>
-
-### Team LinkedIn Profiles (if available)
-
-* https://www.linkedin.com/<person_1>
-* https://www.linkedin.com/<person_2>
+* https://github.com/Mentors4EDU
+* https://github.com/trevormil
 
 ## Development Status :open_book:
 
