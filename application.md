@@ -53,8 +53,8 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team members
 
-* Name of team leader
-* Names of team members 
+* Andrew M. K. Nassief
+* Trevor Miller
 
 ### Contact
 
