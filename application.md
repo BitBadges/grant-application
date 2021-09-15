@@ -21,6 +21,8 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
+We are working on creating a storage network module on substrate compatible w/ the BitBadges blockchain. This will allow for substrate to interact in a meaningful way with the BitBadges ecosystem which follows an experimental PoCP or Proof of Computation proof. Other projects like [Crust](https://crust.network/) or [Subspace](https://www.subspace.network/) are within the same realm of trying to create some form of storage network. The difference is on how BitBadges goes about accomplishing this and what a substrate module as an integration will provide.
+
 * If the name of your project is not descriptive, a tag line (one sentence summary).
 * A brief description of your project.
 * An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
