@@ -1,3 +1,3 @@
 # W3F Grant Proposal
 
-Mirror of our grant application to the Web3 Foundation.
+[Mirror](https://github.com/BitBadges/grant-application/blob/main/application.md) of our grant application to the Web3 Foundation.
