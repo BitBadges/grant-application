@@ -58,9 +58,9 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Contact
 
-* **Contact Name:** Full name of the contact person in your team
-* **Contact Email:** Contact email (e.g. john@duo.com)
-* **Website:**
+* **Contact Name:** Andrew M. K. Nassief
+* **Contact Email:** andrew@cloutpool.net
+* **Website:** https://bitclout.web.app
 
 ### Legal Structure
 
