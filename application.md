@@ -4,7 +4,7 @@
 >
 > See the [Grants Program Process](https://github.com/w3f/Grants-Program/#pencil-process) on how to submit a proposal.
 
-* **Project Name:** BitBadges - Compatible Substrate Module and Storage Network
+* **Project Name:** Expandable Substrate Module and Storage Network Compatible w/ BitBadges
 * **Team Name:** BitBadges
 * **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI)) **Will need to create an address specific for BitBadges!!!**
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
