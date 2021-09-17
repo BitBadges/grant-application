@@ -66,9 +66,11 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Both members of the team have robust development experience. Trevor is currently pursuing a BS/MS dual degree and had experience developing a variety of open-source projects including BitBadges. Andrew, the team leader has years of development experience behind his belt and experience with a vast array of research accross a variety of topics. His research across a variety of industries is quite extensive.
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+Past experiences include work within the realms of Computational and Theoretical Physics, Quantum Engineering, and Financial Engineering. He has experimented with high performance computing in the past, and built quant trading algorithms. He also developed an obsession w/ superconductivity and Qubit processing mechanisms. He has experience contributing to the development of technology within a variety of startups.
+
+This is the first time that this team is applying to a grant from the Web3 Foundation.
 
 ### Team Code Repos
 
