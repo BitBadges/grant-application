@@ -24,6 +24,9 @@ Other projects like [Crust](https://crust.network/) or [Subspace](https://www.su
 We believe that the substrate ecosystem can provide another integration w/ our network and we might even be able to create something similar to what Crust is doing on their mainnet, but w/ BitBadges as the storage method or a mirrored peg for the data. Our team, which is currently just two people, are passionate and have years of blockchain development experience under our belts. We think Substrate can work great as one of our third party integrations or pegged chains.
 
 ### Project Details
+---
+
+---
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
@@ -36,6 +39,10 @@ We expect the teams to already have a solid idea about your project's expected f
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 ### Ecosystem Fit
+
+---
+
+---
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
