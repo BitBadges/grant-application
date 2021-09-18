@@ -96,6 +96,12 @@ Please also provide the GitHub accounts of all team members.
 
 ## Development Status :open_book:
 
+---
+
+WRITE ANSWER HERE THEN DELETE LINES
+
+---
+
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
 
 * links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
