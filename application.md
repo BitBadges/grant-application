@@ -26,6 +26,8 @@ We believe that the substrate ecosystem can provide another integration w/ our n
 ### Project Details
 ---
 
+WRITE ANSWER HERE THEN DELETE LINES
+
 ---
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
@@ -41,6 +43,8 @@ We expect the teams to already have a solid idea about your project's expected f
 ### Ecosystem Fit
 
 ---
+
+WRITE ANSWER HERE THEN DELETE LINES
 
 ---
 
