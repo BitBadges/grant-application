@@ -164,9 +164,9 @@ The total we are asking for regarding development for the first initial phases, 
 
 ### Milestone 1 ~ Sidechain Development w/ Substrate
 
-* **Estimated duration:** 1 month
-* **FTE:**  2
-* **Costs:** 8,000 USD
+* **Estimated duration:** 
+* **FTE:** 
+* **Costs:** 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -183,9 +183,9 @@ The total we are asking for regarding development for the first initial phases, 
 
 ### Milestone 2 ~ Sidechain Frontend
 
-* **Estimated Duration:** 1 month
-* **FTE:**  1
-* **Costs:** 4,000 USD
+* **Estimated Duration:** 
+* **FTE:**  
+* **Costs:**
 
 ### Milestone 3 ~ Social Network
 
