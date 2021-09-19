@@ -162,7 +162,7 @@ The total we are asking for regarding development for the first initial phases, 
 * **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
 * **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 Example — Implement Substrate Modules
+### Milestone 1 ~ Sidechain Development w/ Substrate
 
 * **Estimated duration:** 1 month
 * **FTE:**  2
@@ -181,11 +181,14 @@ The total we are asking for regarding development for the first initial phases, 
 | 4. | Substrate chain | Modules X, Y & Z of our custom chain will interact in such a way... (Please describe the deliverable here as detailed as possible) |  
 
 
-### Milestone 2 Example — Additional features
+### Milestone 2 ~ Sidechain Frontend
 
 * **Estimated Duration:** 1 month
 * **FTE:**  1
 * **Costs:** 4,000 USD
+
+### Milestone 3 ~ Social Network
+
 
 ...
 
