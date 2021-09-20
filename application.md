@@ -110,7 +110,6 @@ Please also provide the GitHub accounts of all team members.
 * https://github.com/trevormil
 
 ## Development Status :open_book:
-
 ---
 
 WRITE ANSWER HERE THEN DELETE LINES
@@ -126,7 +125,6 @@ If you've already started implementing your project or it is part of a larger re
 * previous interface iterations, such as mock-ups and wireframes.
 
 ## Development Roadmap :nut_and_bolt:
-
 ---
 Outside of the sidechain integration, we also want to build another expansion on Substate. This is oriented towards more of the frontend and UX phase. Phase 2 as we will call it, will be one of the applications that can be built on top of that chain. The deliverance of phase 2 will be a badges based social network centered around timestamps and issued badges within the Substate/Polkadot sidechain. 
 
@@ -151,7 +149,6 @@ To assist you in defining it, we have created a document with examples for some 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
-
 ---
 
 The total we are asking for regarding development for the first initial phases, is $50k USD. This will cover costs related to deployment (hosting, potential gas fees, miscellaneous), marketing, and the whole design process. We know this may seem like much, but this is just to get the initial phases completed. Perhaps when this is expanded, further grant phases could follow to build integrations on top of this as a base. There are various considerations that go into this when looking at it through the scope of work perspective. 
@@ -219,7 +216,6 @@ The total we are asking for regarding development for the first initial phases, 
 ...
 
 ## Future Plans
-
 ---
 
 WRITE ANSWER HERE THEN DELETE LINES
@@ -231,9 +227,7 @@ Please include here
 * how you intend to use, enhance, promote and support your project in the short term, and
 * the team's long-term plans and intentions in relation to it.
 
-
 ## Additional Information :heavy_plus_sign:
-
 ---
 
 WRITE ANSWER HERE THEN DELETE LINES
