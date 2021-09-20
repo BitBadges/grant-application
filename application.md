@@ -17,7 +17,7 @@
 
 ### Overview
 
-We are working on creating a storage network module on substrate compatible w/ the BitBadges blockchain. This will allow for substrate to interact in a meaningful way with the BitBadges ecosystem, which follows an experimental PoCP or Proof of Computation proof. 
+We are working on creating a storage network module on substrate compatible w/ the [BitBadges](https://bitbadges.github.io) blockchain. This will allow for substrate to interact in a meaningful way with the BitBadges ecosystem, which follows an experimental PoCP or Proof of Computation proof. 
 
 Other projects like [Crust](https://crust.network/) or [Subspace](https://www.subspace.network/) are within the same realm of trying to create some form of storage network. The difference is how BitBadges goes about accomplishing this and what a substrate module as an integration will provide. BitBadges as a whole is working on offline-centric networks and integrating variations of distributing sharding algorithms. Their data is transmitted w/ CouchDB being an integral part of its core for node syncronization. BitBadges is also integrating w/ various third party networks viewed as either pegs or applications. 
 
