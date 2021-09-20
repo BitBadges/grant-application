@@ -218,7 +218,6 @@ The total we are asking for regarding development for the first initial phases, 
 
 ...
 
-
 ## Future Plans
 
 ---
