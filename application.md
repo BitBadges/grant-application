@@ -235,6 +235,12 @@ Please include here
 
 ## Additional Information :heavy_plus_sign:
 
+---
+
+WRITE ANSWER HERE THEN DELETE LINES
+
+---
+
 **How did you hear about the Grants Program?** Web3 Foundation Website / Medium / Twitter / Element / Announcement by another team / personal recommendation / etc.
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
