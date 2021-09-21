@@ -230,7 +230,7 @@ Please include here
 ## Additional Information :heavy_plus_sign:
 ---
 
-WRITE ANSWER HERE THEN DELETE LINES
+We heard about this grant in particular through an open grants website. We thought this matched well w/ what we are trying to do. Currently, we haven't applied for grants in the past. There is work 
 
 ---
 
