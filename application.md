@@ -218,7 +218,7 @@ The total we are asking for regarding development for the first initial phases, 
 ## Future Plans
 ---
 
-WRITE ANSWER HERE THEN DELETE LINES
+Outside of updating dependencies and actively mantaining this project, our team has lots of plans.
 
 ---
 
