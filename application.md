@@ -163,7 +163,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 * **Estimated duration:** 
 * **FTE:** 
-* **Costs:** 
+* **Costs:** $12500
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -181,7 +181,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 * **Estimated Duration:** 
 * **FTE:**  
-* **Costs:**
+* **Costs:** $10500
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
@@ -199,7 +199,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 * **Estimated Duration:** 
 * **FTE:**  
-* **Costs:**
+* **Costs:** $27000
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
