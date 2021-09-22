@@ -57,8 +57,6 @@ We expect the teams to already have a solid idea about your project's expected f
 
 ### Ecosystem Fit
 
----
-
 Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial database schema, and launching the MVP, getting hundreds of early users, and have migrated to a more decentralized system and our own blockchain. 
 BitBadges (2.0) or BitBadges has a paper on IACR preprints introducing its architecture. Its architecture is centered around PoCP proofs i.e Proof of Computation. BitBadges is validated through synchronized nodes from those who want to host daemons, as more and more nodes are interconnected, the network becomes more and more decentralized. This allows compute through an offline-centric network, and it utilizes a variety of technologies such as the decentralized-internet SDK and CouchDB to perform this.
 
@@ -72,17 +70,6 @@ Outside of wanting to utilize the EVM module w/ substrate, we want a substrate c
 - We are targetting developers who want to build on top of BitBadges
 - Devs who use our Substrate sidechain will also be expanding the Substrate ecosystem (given its a substrate sidechain)
 - This should also open up more Wasm developers and those with experience w/ Ethereum's EVM to want to do further dev work
-
----
-
-Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
-
-* Where and how does your project fit into the ecosystem?
-* Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-* What need(s) does your project meet?
-* Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
 
 ## Team :busts_in_silhouette:
 
