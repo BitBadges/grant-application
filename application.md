@@ -36,6 +36,12 @@ We believe that BitBadges will be a great fit for the Substrate ecosystem. Subst
 
 Outside of wanting to utilize the EVM module w/ substrate, we want a substrate chain for other reasons as well. We are looking to potentially deploy as a sidechain integration for expandability something like what Crust is doing w/ maxwell or its mainnet (as mentioned). We also believe that many people who want to develop or integrate w/ BitBadges may want to code in Rust, Wasm, or Solidity. 
 
+The current UML to demonstrate the flow of BitBadges is:
+
+
+
+The UML in regards to the substate sidechain is:
+
 ---
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
