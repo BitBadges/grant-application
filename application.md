@@ -111,7 +111,7 @@ Please also provide the GitHub accounts of all team members.
 ## Development Status :open_book:
 ---
 
-Write now in regards to the substrate sidechain, we have 
+Right now in regards to the substrate sidechain, we have 
 
 ---
 
