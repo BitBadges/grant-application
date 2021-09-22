@@ -41,6 +41,7 @@ The current UML to demonstrate the flow of BitBadges is:
 
 
 The UML in regards to the substate sidechain is:
+![SubstateUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/SubstateUML.png)
 
 ---
 
