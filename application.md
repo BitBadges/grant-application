@@ -130,6 +130,7 @@ Outside of the sidechain integration, we also want to build another expansion on
 Users will be able to load up the sidechain, connect to BitBadges core, and then issue badges to each other. Badges issued on top of the sidechain integration will appear within a nice UI. Other features such as profile, pictures, bios, etc. can all be implemented through badges. Likely, the user interface that can load all this data as well as potentially categorize/tag it, will be build w/ NodeJs + React and may integrate the Bulma CSS framework. 
 
 **Regarding the Milestones:**
+
 We have a specific set of tasks that will need to be completed as each phase is finished.
 
 ---
