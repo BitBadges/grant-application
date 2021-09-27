@@ -148,9 +148,14 @@ We have a specific set of tasks that will need to be completed as each phase is 
 - Dockerize a sidechain + frontend package
 
 #### Milestone 3: Social Network
--
--
-
+- Integrate core BitBadges features
+- Build off of Substrate sidechain
+- Make sure network is fully responsive
+- Consider making the social network modular
+- Create user guide + dev guide (documentation)
+- Consider making an Identity API guide
+- Consider publishing plans for a secondary phase
+ 
 The deliverables will likley be in the form of links to our code repos and a discussion (update) on our implementation.
 
 ---
