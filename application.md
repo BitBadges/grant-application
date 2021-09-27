@@ -123,8 +123,9 @@ If you've already started implementing your project or it is part of a larger re
 * references to conversations you might have had related to this project with anyone from the Web3 Foundation,
 * previous interface iterations, such as mock-ups and wireframes.
 
-## Development Roadmap :nut_and_bolt:
 ---
+
+## Development Roadmap :nut_and_bolt:
 Outside of the sidechain integration, we also want to build another expansion on Substate. This is oriented towards more of the frontend and UX phase. Phase 2 as we will call it, will be one of the applications that can be built on top of that chain. The deliverance of phase 2 will be a badges based social network centered around timestamps and issued badges within the Substate/Polkadot sidechain. 
 
 Users will be able to load up the sidechain, connect to BitBadges core, and then issue badges to each other. Badges issued on top of the sidechain integration will appear within a nice UI. Other features such as profile, pictures, bios, etc. can all be implemented through badges. Likely, the user interface that can load all this data as well as potentially categorize/tag it, will be build w/ NodeJs + React and may integrate the Bulma CSS framework. 
@@ -156,9 +157,10 @@ We have a specific set of tasks that will need to be completed as each phase is 
 - Consider making an Identity API guide
 - Consider publishing plans for a secondary phase
  
-The deliverables will likley be in the form of links to our code repos and a discussion (update) on our implementation.
+The deliverables will likley be in the form of links to our code repos and a discussion (update) on our implementation. The scope of work in regards to each milestone, require a variety of different things. In regards to specification and the overview regarding the development roadmap, please turn to the overview section. For milestone #1, 
 
 ---
+
 This section should break the development roadmap down into milestones and deliverables. Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
 
 Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Substrate, Kusama or Polkadot. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
