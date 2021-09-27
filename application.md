@@ -134,12 +134,18 @@ Users will be able to load up the sidechain, connect to BitBadges core, and then
 We have a specific set of tasks that will need to be completed as each phase is finished.
 
 #### Milestone 1: Sidechain Development w/ Substrate
--
--
+- Build out sidechain and work on deployment
+- Different IT configurations in relation to development
+- Add and integrate the EVM module (pallet)
+- Create compatible chainspec file
+- Create consensus layer and demo client
+- Integrate contracts API and may add keyring package
 
 #### Milestone 2: Sidechain Frontend
--
--
+- Develop UI frontend
+- Build w/ Node.js + React
+- Consider utilizing the Bulma CSS framework
+- Dockerize a sidechain + frontend package
 
 #### Milestone 3: Social Network
 -
