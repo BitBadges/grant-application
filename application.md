@@ -229,12 +229,8 @@ The total we are asking for regarding development for the first initial phases, 
 | 0a. | License | MIT and OPNL 2.0 |
 | 0b. | Documentation | Provide more details |
 | 0c. | Testing Guide | Provide more details |
-| 0d. | Docker | Provide more details |
-| 0e. | Article | Provide more details |
-| 1. | Substrate module: X | Provide more details |  
-| 2. | Substrate module: Y | Provide more details |  
-| 3. | Substrate module: Z | Provide more details |  
-| 4. | Substrate chain | Provide more details |  
+| 1. | Design | Provide more details |  
+| 2. | Client Core | Provide more details |  
 
 ...
 
