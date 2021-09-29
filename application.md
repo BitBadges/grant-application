@@ -111,7 +111,7 @@ Please also provide the GitHub accounts of all team members.
 ## Development Status :open_book:
 ---
 
-Right now in regards to the substrate sidechain, we have the initial idea planned and the BitBadges blockchain ready to start integrating sidechains. In regards to BitBadges development, we are near the final phase of BitBadges 2.0 which integrates CouchDB and its proposed offline-centric capabilities. Alot has been done such as ...
+Right now in regards to the substrate sidechain, we have the initial idea planned and the BitBadges blockchain ready to start integrating sidechains. In regards to BitBadges development, we are near the final phase of BitBadges 2.0 which integrates CouchDB and its proposed offline-centric capabilities. Alot has been done such as working on the API to CouchDB integration, integrating EthAuth, doing the database migration, and having a MVP. Also, we are ...
 
 ---
 
