@@ -237,7 +237,7 @@ The total we are asking for regarding development for the first initial phases, 
 ## Future Plans
 ---
 
-Outside of updating dependencies and actively mantaining this project, our team has lots of plans. Many of these plans are centered around expansion in regards to our usecases and projects built around it. This will include
+Outside of updating dependencies and actively mantaining this project, our team has lots of plans. Many of these plans are centered around expansion in regards to our usecases and projects built around it. This will include cross-chain expansions such as TNB (TheNewBoston) and other crypto integrations as well as onboarding many developers to build on top of BitBadges and perhaps on top of its substrate sidechain as well. 
 
 ---
 
