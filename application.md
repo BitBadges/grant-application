@@ -235,16 +235,8 @@ The total we are asking for regarding development for the first initial phases, 
 ...
 
 ## Future Plans
----
 
-Outside of updating dependencies and actively mantaining this project, our team has lots of plans. Many of these plans are centered around expansion in regards to our usecases and projects built around it. This will include cross-chain expansions such as TNB (TheNewBoston) and other crypto integrations as well as onboarding many developers to build on top of BitBadges and perhaps on top of its substrate sidechain as well. In regards to promotion, there are alot of things we want to do such as dev or crowdsourced innovation challenges, and focusing on constant improvement of our documentation or tutorials. We also want to establish a ....
-
----
-
-Please include here
-
-* how you intend to use, enhance, promote and support your project in the short term, and
-* the team's long-term plans and intentions in relation to it.
+Outside of updating dependencies and actively mantaining this project, our team has lots of plans. Many of these plans are centered around expansion in regards to our usecases and projects built around it. This will include cross-chain expansions such as TNB (TheNewBoston) and other crypto integrations as well as onboarding many developers to build on top of BitBadges and perhaps on top of its substrate sidechain as well. In regards to promotion, there are alot of things we want to do such as dev or crowdsourced innovation challenges, and focusing on constant improvement of our documentation or tutorials. BitBadges also plans on integrating a bug bounty program. We also want to focus on establishing various usecases and a large community of early adopters.
 
 ## Additional Information :heavy_plus_sign:
 
