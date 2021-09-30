@@ -202,8 +202,8 @@ The total we are asking for regarding development for the first initial phases, 
 | 0c. | IT Configs | Different IT configs related to the sidechain and deployment/run-time |
 | 0d. | EVM Module | EVM module for Solidity compatibility and further developer onboarding |
 | 0e. | Chainspec | The required chainspec file and all its different configurations |
-| 1. | Demo Client | Provide more details |  
-| 2. | Contracts API | Provide more details |  
+| 1. | Contracts API | Integrate the contracts API module and contract pallet |  
+| 2. | Demo Client | Build and package together a compiled demo client w/ consensus layer |  
 
 ### Milestone 2 ~ Sidechain Frontend
 
