@@ -198,10 +198,10 @@ The total we are asking for regarding development for the first initial phases, 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT and OPNL 2.0 |
-| 0b. | Documentation | Provide more details |
-| 0c. | IT Configs | Provide more details |
-| 0d. | EVM Module | Provide more details |
-| 0e. | Chainspec | Provide more details |
+| 0b. | Documentation | Documentation on the sidechain and different modules |
+| 0c. | IT Configs | Different IT configs related to the sidechain and deployment/run-time |
+| 0d. | EVM Module | EVM module for Solidity compatibility and further developer onboarding |
+| 0e. | Chainspec | The required chainspec file and all its different configurations |
 | 1. | Demo Client | Provide more details |  
 | 2. | Contracts API | Provide more details |  
 
