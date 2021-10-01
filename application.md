@@ -214,9 +214,9 @@ The total we are asking for regarding development for the first initial phases, 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT and OPNL 2.0 |
-| 0b. | Documentation | Provide more details |
-| 0b. | Dockerize | Provide more details |
-| 1. | Develop Frontend | Provide more details |  
+| 0b. | Documentation | Create guide/documentation regarding the frontend |
+| 0b. | Dockerize | Dockerize the sidechain and frontend into one package |
+| 1. | Develop Frontend | Styling, UI, and UX (Develop the User Interface) using preferred tools |  
 
 ### Milestone 3 ~ Social Network
 
