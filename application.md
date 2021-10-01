@@ -185,14 +185,10 @@ The total we are asking for regarding development for the first initial phases, 
 
 ---
 
-* **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-* **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-* **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; if the grant is paid out in Bitcoin, the amount will be calculated according to the exchange rate at the time of payment.
-
 ### Milestone 1 ~ Sidechain Development w/ Substrate
 
-* **Estimated duration:** 
-* **FTE:** 
+* **Estimated duration:** 2 Month
+* **FTE:** 1
 * **Costs:** $12500
 
 | Number | Deliverable | Specification |
@@ -207,8 +203,8 @@ The total we are asking for regarding development for the first initial phases, 
 
 ### Milestone 2 ~ Sidechain Frontend
 
-* **Estimated Duration:** 
-* **FTE:**  
+* **Estimated Duration:** 2 Month
+* **FTE:**  1
 * **Costs:** $10500
 
 | Number | Deliverable | Specification |
@@ -220,17 +216,17 @@ The total we are asking for regarding development for the first initial phases, 
 
 ### Milestone 3 ~ Social Network
 
-* **Estimated Duration:** 
-* **FTE:**  
+* **Estimated Duration:** 3 Month
+* **FTE:**  2
 * **Costs:** $27000
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
 | 0a. | License | MIT and OPNL 2.0 |
-| 0b. | Documentation | Provide more details |
-| 0c. | Testing Guide | Provide more details |
-| 1. | Design | Provide more details |  
-| 2. | Client Core | Provide more details |  
+| 0b. | Documentation | Create user and dev guide for network build |
+| 0c. | Testing Guide | Create a testing guide w/ runtime instructions |
+| 1. | Design | Work on the design, core features, and identity API integration |  
+| 2. | Client Core | Make network modular, design network responsively, and compile client  |  
 
 ...
 
