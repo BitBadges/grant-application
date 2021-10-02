@@ -157,7 +157,7 @@ We have a specific set of tasks that will need to be completed as each phase is 
 - Consider making an Identity API guide
 - Consider publishing plans for a secondary phase
  
-The deliverables will likley be in the form of links to our code repos and a discussion (update) on our implementation. The scope of work in regards to each milestone, require a variety of different things. In regards to specification and the overview regarding the development roadmap, please turn to the overview section. For milestone #1, 
+The deliverables will likley be in the form of links to our code repos and a discussion (update) on our implementation. The scope of work in regards to each milestone, require a variety of different things. In regards to specification and the overview regarding the development roadmap, please turn to the overview section. For milestone #1, buiding out the sidechain will have alot of integrations to take into consideration. Some of the implementation will include ...
 
 ---
 
