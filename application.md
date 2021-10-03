@@ -113,6 +113,10 @@ Please also provide the GitHub accounts of all team members.
 
 Right now in regards to the substrate sidechain, we have the initial idea planned and the BitBadges blockchain ready to start integrating sidechains. In regards to BitBadges development, we are near the final phase of BitBadges 2.0 which integrates CouchDB and its proposed offline-centric capabilities. Alot has been done such as working on the API to CouchDB integration, integrating EthAuth, doing the database migration, and having a MVP. Also, we are ...
 
+In regards to public-facing code, the links are as follows:
+
+Although BitBadges haven't applied for any other grants (as of time of submission), BitBadges is actively seeking out partnersips as well as planing on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
+
 ---
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
