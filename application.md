@@ -115,7 +115,7 @@ Right now in regards to the substrate sidechain, we have the initial idea planne
 
 In regards to public-facing code, the links are as follows:
 
-Although BitBadges haven't applied for any other grants (as of time of submission), BitBadges is actively seeking out partnersips as well as planing on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
+Although BitBadges haven't applied for any other grants *(as of time of submission)*, BitBadges is actively seeking out partnersips as well as planning on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
 
 ---
 
