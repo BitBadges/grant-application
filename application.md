@@ -120,7 +120,7 @@ In regards to public-facing code, the links are as follows:
  - TNB Proposal: [https://github.com/BitBadges/TNB-Proposal](https://github.com/BitBadges/TNB-Proposal)
  - Whitepaper: [https://github.com/BitBadges/Whitepaper](https://github.com/BitBadges/Whitepaper)
 
-What is worth nothing is that these links are ...
+What is worth nothing is that these links are for older versions of the code *(BitBadges 1.0)*, and more work has been done in regards to the second version. Lots of the same database schema however, is also utilized in version 2.0 which is more decentralized in regards to technological implementation and architecture.
 
 Although BitBadges haven't applied for any other grants *(as of time of submission)*, BitBadges is actively seeking out partnersips as well as planning on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
 
