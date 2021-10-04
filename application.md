@@ -109,9 +109,7 @@ Please also provide the GitHub accounts of all team members.
 * https://github.com/trevormil
 
 ## Development Status :open_book:
----
-
-Right now in regards to the substrate sidechain, we have the initial idea planned and the BitBadges blockchain ready to start integrating sidechains. In regards to BitBadges development, we are near the final phase of BitBadges 2.0 which integrates CouchDB and its proposed offline-centric capabilities. Alot has been done such as working on the API to CouchDB integration, integrating EthAuth, doing the database migration, and having a MVP. Also, we are ...
+Right now in regards to the substrate sidechain, we have the initial idea planned and the BitBadges blockchain ready to start integrating sidechains. In regards to BitBadges development, we are near the final phase of BitBadges 2.0 which integrates CouchDB and its proposed offline-centric capabilities. Alot has been done such as working on the API to CouchDB integration, integrating EthAuth, doing the database migration, and having a MVP. We are essentially trying to really push development for the release of the BitBadges 2.0 software update.
 
 In regards to public-facing code, the links are as follows:
  - API: [https://github.com/BitBadges/bitbadges.github.io](https://github.com/BitBadges/bitbadges.github.io)
@@ -120,21 +118,12 @@ In regards to public-facing code, the links are as follows:
  - TNB Proposal: [https://github.com/BitBadges/TNB-Proposal](https://github.com/BitBadges/TNB-Proposal)
  - Whitepaper: [https://github.com/BitBadges/Whitepaper](https://github.com/BitBadges/Whitepaper)
 
+##### RE: Blake 3: https://hackernoon.com/2b-or-to-b3-that-is-the-question-blake-2b-vs-3-for-siacoin
+##### RE: TNB Proposal: https://hackernoon.com/my-development-proposal-for-thenewboston-payment-gateway-sidechain
+
 What is worth nothing is that these links are for older versions of the code *(BitBadges 1.0)*, and more work has been done in regards to the second version. Lots of the same database schema however, is also utilized in version 2.0 which is more decentralized in regards to technological implementation and architecture.
 
 Although BitBadges haven't applied for any other grants *(as of time of submission)*, BitBadges is actively seeking out partnersips as well as planning on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
-
----
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-* links to improvement proposals or [RFPs](https://github.com/w3f/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-* academic publications relevant to the problem,
-* links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-* references to conversations you might have had related to this project with anyone from the Web3 Foundation,
-* previous interface iterations, such as mock-ups and wireframes.
-
----
 
 ## Development Roadmap :nut_and_bolt:
 Outside of the sidechain integration, we also want to build another expansion on Substate. This is oriented towards more of the frontend and UX phase. Phase 2 as we will call it, will be one of the applications that can be built on top of that chain. The deliverance of phase 2 will be a badges based social network centered around timestamps and issued badges within the Substate/Polkadot sidechain. 
