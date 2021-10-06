@@ -37,10 +37,12 @@ Outside of wanting to utilize the EVM module w/ substrate, we want a substrate c
 
 The current UML to demonstrate the flow of BitBadges is:
 ![BitBadgesUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/BitBadgesUML.png)
+
 BitBadges at its core contains various parts. First, is the BitBadges blockchain which includes the storage method and the CouchDB database. You have different standards in regards to badges being issued (JSON structures and similar to ERC721), and there are many different sidechains being integrated with the BitBadges ecosystem. The core of BitBadges is the client node, and more and more people can host copies of BitBadges and create P2P networks within each other.
 
 The UML in regards to the substate sidechain is:
 ![SubstateUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/SubstateUML.png)
+
 In regards to the Substrate sidechain, one needs to keep into consideration how sidechains are structured. Sidechains still issue within the same blockchain, but are interoperable. This means that if someone issues on the Substrate sidechain for example, the data is still synced along w/ what was issued on the BitBadges mainnet (regular BitBadges blockchain). That same data can still be hosted and synced across nodes. 
 
 ### Ecosystem Fit
