@@ -33,7 +33,7 @@ The use-case of BitBadges is centered around identity, specifically within the p
 
 We believe that BitBadges will be a great fit for the Substrate ecosystem. Substrate allows for quick scalability and even the ability to easily make custom RPC calls. It also has compatibility w/ EVM or the Ethereum Virtual Machine. While BitBadges already integrates w/ rollup layers including [CloutContracts](https://cloutcontracts.net), we think an EVM integration separate from directly requiring deployments to Ethereum’s network is a plus. 
 
-Outside of wanting to utilize the EVM module w/ substrate, we want a substrate chain for other reasons as well. We are looking to potentially deploy as a sidechain integration for expandability something like what Crust is doing w/ maxwell or its mainnet (as mentioned). We also believe that many people who want to develop or integrate w/ BitBadges may want to code in Rust, Wasm, or Solidity. 
+Outside of wanting to utilize the EVM module w/ substrate, we want a substrate chain for other reasons as well. We are looking to potentially deploy as a sidechain integration for expandability [something like what Crust is doing w/ maxwell or its mainnet (as mentioned)]. We also believe that many people who want to develop or integrate w/ BitBadges may want to code in Rust, Wasm, or Solidity. 
 
 The current UML to demonstrate the flow of BitBadges is:
 ![BitBadgesUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/BitBadgesUML.png)
