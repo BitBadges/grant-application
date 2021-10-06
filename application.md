@@ -156,7 +156,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT and OPNL 2.0 |
+| 0a. | License | MIT, OPNL 2.0 and Apache-2 |
 | 0b. | Documentation | Documentation on the sidechain and different modules |
 | 0c. | IT Configs | Different IT configs related to the sidechain and deployment/run-time |
 | 0d. | EVM Module | EVM module for Solidity compatibility and further developer onboarding |
@@ -172,7 +172,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT and OPNL 2.0 |
+| 0a. | License | MIT, OPNL 2.0 and Apache-2 |
 | 0b. | Documentation | Create guide/documentation regarding the frontend |
 | 0b. | Dockerize | Dockerize the sidechain and frontend into one package |
 | 1. | Develop Frontend | Styling, UI, and UX (Develop the User Interface) using preferred tools |  
@@ -185,7 +185,7 @@ The total we are asking for regarding development for the first initial phases, 
 
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
-| 0a. | License | MIT and OPNL 2.0 |
+| 0a. | License | MIT, OPNL 2.0 and Apache-2 |
 | 0b. | Documentation | Create user and dev guide for network build |
 | 0c. | Testing Guide | Create a testing guide w/ runtime instructions |
 | 1. | Design | Work on the design, core features, and identity API integration |  
