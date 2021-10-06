@@ -47,15 +47,7 @@ In regards to the Substrate sidechain, one needs to keep into consideration how 
 
 ### Ecosystem Fit
 
-Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial database schema, and launching the MVP, getting hundreds of early users, and having migrated to a more decentralized system and our own blockchain. 
-
-BitBadges (2.0) or BitBadges has a paper on IACR preprints introducing its architecture. Its architecture is centered around PoCP proofs i.e Proof of Computation. BitBadges is validated through synchronized nodes from those who want to host daemons, as more and more nodes are interconnected, the network becomes more and more decentralized. This allows compute through an offline-centric network, and it utilizes a variety of technologies such as the decentralized-internet SDK and CouchDB to perform this.
-
-The use-case of BitBadges is centered around identity, specifically within the privacy-preserving realm. The first application of BitBadges was utilizing its database schema to issue badges in relation to different users on the blockchain. For permanence, BitBadges in its new form will utilize Blake3 and its own blockchain for the core hashing integration. This is as opposed to IPFS which may now be looked at as potentially more of a future sidechain integration.
-
-We believe that BitBadges will be a great fit for the Substrate ecosystem. Substrate allows for quick scalability and even the ability to easily make custom RPC calls. It also has compatibility w/ EVM or the Ethereum Virtual Machine. While BitBadges already integrates w/ rollup layers including CloutContracts, we think an EVM integration separate from directly requiring deployments to Ethereum’s network is a plus. 
-
-Outside of wanting to utilize the EVM module w/ substrate, we want a substrate chain for other reasons as well. We are looking to potentially deploy as a sidechain integration for expandability something like what Crust is doing w/ maxwell or its mainnet (as mentioned). We also believe that many people who want to develop or integrate w/ BitBadges may want to code in Rust, Wasm, or Solidity. 
+We are targeting many developers who want to build on top of BitBadges as well as further expanding our options and integrations w/ the Substrate sidechain (as seen in the target audience). Other cryptocurrency networks such as [Skynet](https://github.com/w3f/Grants-Program/blob/master/applications/skynet-substrate-integration.md) also benefited from integrating Substrate. We believe many likeminded developers will build on top of BitBadges as a result of the Substrate sidechain, and this allows both networks to benefit as a result.
 
 **Target Audience:**
 - We are targeting developers who want to build on top of BitBadges
