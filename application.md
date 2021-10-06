@@ -6,7 +6,7 @@
 
 * **Project Name:** Expandable Substrate Module and Storage Network Compatible w/ BitBadges
 * **Team Name:** BitBadges
-* **Payment Address:** BTC, Ethereum (USDT/DAI) or Karura (kUSD) payment address. Please also specify the currency. (e.g. 0x8920... (DAI)) **Will need to create an address specific for BitBadges!!!**
+* **Payment Address:** [0xC8F72de05110352684A1e9e4acB7AEF112220698](https://etherscan.io/address/0xC8F72de05110352684A1e9e4acB7AEF112220698) (ETH)
 * **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
