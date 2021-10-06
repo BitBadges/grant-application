@@ -25,7 +25,7 @@ We believe that the substrate ecosystem can provide another integration w/ our n
 
 ### Project Details
 
-Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial [database schema](https://bitbadges.github.io/database/), and launching the MVP, getting hundreds of early users, and have migrated to a more decentralized system and our own blockchain. 
+Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial [database schema](https://bitbadges.github.io/database/), and launching the MVP, getting hundreds of early users, and having migrated to a more decentralized system and our own blockchain. 
 
 BitBadges (2.0) or BitBadges has a [paper](https://eprint.iacr.org/2021/1186) on IACR preprints introducing its architecture. Its architecture is centered around PoCP proofs i.e Proof of Computation. BitBadges is validated through synchronized nodes from those who want to host daemons, as more and more nodes are interconnected, the network becomes more and more decentralized. This allows compute through an offline-centric network, and it utilizes a variety of technologies such as the [decentralized-internet SDK](https://lonero.org/Decentralized-Internet/) and [CouchDB](https://couchdb.apache.org/) to perform this.
 
