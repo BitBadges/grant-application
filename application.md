@@ -162,11 +162,8 @@ The deliverables will likley be in the form of links to our code repos and a dis
 In regards to testing, the code for this sidechain will be fully open source along w/ its packages and instructions on running it. We can also integrate automated unit and integration testing or code testing w/ GitHub actions *(as needed)*.
 
 ### Overview
----
 
-The total we are asking for regarding development for the first initial phases, is $50k USD. This will cover costs related to deployment (hosting, potential gas fees, miscellaneous), marketing, and the whole design process. We know this may seem like much, but this is just to get the initial phases completed. Perhaps when this is expanded, further grant phases could follow to build integrations on top of this as a base. There are various considerations that go into this when looking at it through the scope of work perspective. 
-
----
+The total we are asking for regarding development for the first initial phases, is $50k USD. This will cover costs related to deployment (hosting, potential gas fees, miscellaneous), marketing, and the whole design process. We know this may seem like much, but this is just to get the initial phases completed. Perhaps when this is expanded, further grant phases could follow to build integrations on top of this as a base. There are various considerations that go into this when looking at it through the scope of work perspective. By developing this project, we are not only both expanding our usecase and reaching more Substrate users, but we are opening up more dev opportunities on top of both platforms as well *(as mentioned)*. 
 
 ### Milestone 1 ~ Sidechain Development w/ Substrate
 
