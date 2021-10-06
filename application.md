@@ -74,7 +74,7 @@ We are targeting many developers who want to build on top of BitBadges as well a
 
 ### Team's experience
 
-Both members of the team have robust development experience. Trevor is currently pursuing a BS/MS dual degree and had experience developing a variety of open-source projects including BitBadges. Andrew, the team leader has years of development experience behind his belt and experience with a vast array of research across a variety of topics. His research across a variety of industries is quite extensive.
+Both members of the team have robust development experience. Trevor is currently pursuing a BS/MS dual degree and has experience developing a variety of open-source projects including BitBadges. Andrew, the team leader has years of development experience behind his belt and experience with a vast array of research across a variety of topics. His research across a variety of industries is quite extensive.
 
 Past experiences include work within the realms of Computational and Theoretical Physics, Quantum Engineering, and Financial Engineering. He has experimented with high performance computing in the past, and built quant trading algorithms. He also developed an obsession w/ superconductivity and Qubit processing mechanisms. He has experience contributing to the development of technology within a variety of startups.
 
@@ -104,14 +104,14 @@ In regards to public-facing code, the links are as follows:
 ##### RE: Blake 3: https://hackernoon.com/2b-or-to-b3-that-is-the-question-blake-2b-vs-3-for-siacoin
 ##### RE: TNB Proposal: https://hackernoon.com/my-development-proposal-for-thenewboston-payment-gateway-sidechain
 
-What is worth nothing is that these links are for older versions of the code *(BitBadges 1.0)*, and more work has been done in regards to the second version. Lots of the same database schema however, is also utilized in version 2.0 which is more decentralized in regards to technological implementation and architecture.
+What is worth noting is that these links are for older versions of the code *(BitBadges 1.0)*, and more work has been done in regards to the second version. Lots of the same database schema however, is also utilized in version 2.0 which is more decentralized in regards to technological implementation and architecture.
 
 Although BitBadges haven't applied for any other grants *(as of time of submission)*, BitBadges is actively seeking out partnerships as well as planning on competing in the Digital Learning XPrize (working on gameified e-learning badge solutions). The scope of the technology BitBadges can create and provide is very diverse, all of which is centered around its core ecosystem.
 
 ## Development Roadmap :nut_and_bolt:
 Outside of the sidechain integration, we also want to build another expansion on Substate. This is oriented towards more of the frontend and UX phase. Phase 2 as we will call it, will be one of the applications that can be built on top of that chain. The deliverance of phase 2 will be a badges based social network centered around timestamps and issued badges within the Substate/Polkadot sidechain. 
 
-Users will be able to load up the sidechain, connect to BitBadges core, and then issue badges to each other. Badges issued on top of the sidechain integration will appear within a nice UI. Other features such as profile, pictures, bios, etc. can all be implemented through badges. Likely, the user interface that can load all this data as well as potentially categorize/tag it, will be build w/ NodeJs + React and may integrate the Bulma CSS framework. 
+Users will be able to load up the sidechain, connect to BitBadges core, and then issue badges to each other. Badges issued on top of the sidechain integration will appear within a nice UI. Other features such as profile, pictures, bios, etc. can all be implemented through badges. Likely, the user interface that can load all this data as well as potentially categorize/tag it, will be built w/ NodeJs + React and may integrate the Bulma CSS framework. 
 
 **Regarding the Milestones:**
 
