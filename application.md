@@ -52,7 +52,7 @@ We are targeting many developers who want to build on top of BitBadges as well a
 **Target Audience:**
 - We are targeting developers who want to build on top of BitBadges
 - Devs who use our Substrate sidechain will also be expanding the Substrate ecosystem (given its a substrate sidechain)
-- This should also open up more Wasm developers and those with experience w/ Ethereum's EVM to want to do further dev work
+- This should also open up more [Wasm](https://substrate.dev/docs/en/knowledgebase/advanced/executor) developers and those with experience w/ Ethereum's EVM to want to do further dev work
 
 ## Team :busts_in_silhouette:
 
