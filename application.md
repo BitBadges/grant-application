@@ -197,7 +197,7 @@ The total we are asking for regarding development for the first initial phases, 
 | 1. | Design | Work on the design, core features, and identity API integration |  
 | 2. | Client Core | Make network modular, design network responsively, and compile client  |  
 
-...
+We go over what needs to be done in the development roadmap. We are conservative in regards to the estimated duration for each milestone, but aim to finish way before that. If a delivery is finished prior, a status update can be provided early and we can recieve the costs reimburshments and go on to the next milestone early. This is for sake of simplicity in regards to making sustainable progress.
 
 ## Future Plans
 
