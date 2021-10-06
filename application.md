@@ -24,7 +24,6 @@ Other projects like [Crust](https://crust.network/) or [Subspace](https://www.su
 We believe that the substrate ecosystem can provide another integration w/ our network and we might even be able to create something similar to what Crust is doing on their mainnet, but w/ BitBadges as the storage method or a mirrored peg for the data. Our team, which is currently just two people, are passionate and have years of blockchain development experience under our belts. We think Substrate can work great as one of our third party integrations or pegged chains.
 
 ### Project Details
----
 
 Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial [database schema](https://bitbadges.github.io/database/), and launching the MVP, getting hundreds of early users, and have migrated to a more decentralized system and our own blockchain. 
 
@@ -38,26 +37,16 @@ Outside of wanting to utilize the EVM module w/ substrate, we want a substrate c
 
 The current UML to demonstrate the flow of BitBadges is:
 ![BitBadgesUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/BitBadgesUML.png)
-
+BitBadges at its core contains various parts. First, is the BitBadges blockchain which includes the storage method and the CouchDB database. You have different standards in regards to badges being issued (JSON structures and similar to ERC721), and there are many different sidechains being integrated with the BitBadges ecosystem. The core of BitBadges is the client node, and more and more people can host copies of BitBadges and create P2P networks within each other.
 
 The UML in regards to the substate sidechain is:
 ![SubstateUML](https://raw.githubusercontent.com/BitBadges/grant-application/main/assets/images/SubstateUML.png)
-
----
-
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-* Mockups/designs of any UI components
-* Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
-* Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
-* What your project is _not_ or will _not_ provide or implement
-  * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+In regards to the Substrate sidechain, one needs to keep into consideration how sidechains are structured. Sidechains still issue within the same blockchain, but are interoperable. This means that if someone issues on the Substrate sidechain for example, the data is still synced along w/ what was issued on the BitBadges mainnet (regular BitBadges blockchain). That same data can still be hosted and synced across nodes. 
 
 ### Ecosystem Fit
 
 Currently, we have built a variety of technologies in relation to BitBadges (1.0) for the preparation of this proposed release and its other sidechains. Among those are, building the initial database schema, and launching the MVP, getting hundreds of early users, and have migrated to a more decentralized system and our own blockchain. 
+
 BitBadges (2.0) or BitBadges has a paper on IACR preprints introducing its architecture. Its architecture is centered around PoCP proofs i.e Proof of Computation. BitBadges is validated through synchronized nodes from those who want to host daemons, as more and more nodes are interconnected, the network becomes more and more decentralized. This allows compute through an offline-centric network, and it utilizes a variety of technologies such as the decentralized-internet SDK and CouchDB to perform this.
 
 The use-case of BitBadges is centered around identity, specifically within the privacy-preserving realm. The first application of BitBadges was utilizing its database schema to issue badges in relation to different users on the blockchain. For permanence, BitBadges in its new form will utilize Blake3 and its own blockchain for the core hashing integration. This is as opposed to IPFS which may now be looked at as potentially more of a future sidechain integration.
