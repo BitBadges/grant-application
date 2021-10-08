@@ -204,6 +204,6 @@ We heard about this grant in particular through an open grants website. We thoug
 ### FAQs
 1. **Can you please clarify a bit more about BitBadges and its implementation?**
 
-2.
+2. **What are the sidechain integrations w/ BitBadges and how do they work?**
 
-3.
+3. **What will be the core deliverables in regards to testing and documentation?**
