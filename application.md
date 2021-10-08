@@ -207,3 +207,5 @@ We heard about this grant in particular through an open grants website. We thoug
 2. **What are the sidechain integrations w/ BitBadges and how do they work?**
 
 3. **What will be the core deliverables in regards to testing and documentation?**
+
+4. **How will this be integrated w/ Substrate? Will it be a module? How will it be programmed?**
