@@ -208,7 +208,7 @@ We heard about this grant in particular through an open grants website. We thoug
 
 2. **What are the sidechain integrations w/ BitBadges and how do they work?**
 
-**Answer:** A sidechain is a separate blockchain or connector in which data can be transmitted between that blockchain and the main chain *(BitBadges)*. The difference between a sidechain and crosschain compatibility is that sidechains can transmit data between chains while crosschains are more focused towards wrapping assets or special transactions as opposed to data transmission within the main chain.
+**Answer:** A sidechain is a separate blockchain or connector in which data can be transmitted between that blockchain and the main chain *(BitBadges)*. The difference between a sidechain and crosschain compatibility is that sidechains can transmit data between chains while crosschains are more focused towards wrapping assets or [special transactions](https://academy.horizen.io/technology/expert/cross-chain-transactions/) as opposed to data transmission within the main chain.
 
 3. **What will be the core deliverables in regards to testing and documentation?**
 
