@@ -204,11 +204,11 @@ We heard about this grant in particular through an open grants website. We thoug
 ### FAQs
 1. **Can you please clarify a bit more about BitBadges and its implementation?**
 
-**Answer:** BitBadges is its own independent blockchain and a paper on it can be read on [IACR Preprints](https://eprint.iacr.org/2021/1186). Currently an example of BitBadges can be seen here [v1.0](https://bitbadges.web.app), but this is the version prior to the full release and where the database is also migrated to CouchDB. In regards to what we want to do w/ Substrate, Substrate is a sidechain and not what builds the BitBadges blockchain. 
+**Answer:** BitBadges is its own independent blockchain and a paper on it can be read on [IACR Preprints](https://eprint.iacr.org/2021/1186). Currently an example of BitBadges can be seen here [v1.0](https://bitbadges.web.app), but this is the version prior to the full release and where the database will be migrated to CouchDB. In regards to what we want to do w/ Substrate, Substrate is for a sidechain and not what builds the BitBadges blockchain. 
 
 2. **What are the sidechain integrations w/ BitBadges and how do they work?**
 
-**Answer:**
+**Answer:** A sidechain is a seperate blockchain or connector in which data can be transmitted between that blockchain and the main chain *(BitBadges)*. The difference between a side-chain and crosschain compatibility is that sidechains can transmit data between chains while crosschains are more focused towards wrapping assets or special transactions as opposed to data transmission within the mainchain.
 
 3. **What will be the core deliverables in regards to testing and documentation?**
 
