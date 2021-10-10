@@ -212,8 +212,8 @@ We heard about this grant in particular through an open grants website. We thoug
 
 3. **What will be the core deliverables in regards to testing and documentation?**
 
-**Answer:**
+**Answer:** We will have CLI tests enabled for the core code modules, and in regards to documentation, we will document everything thoroughly in the README. User guides however, are different then dev guides, and some documentation follows different standards then others. For sake of simplicity, the documentation or what is included within the software packages will obviously go through some form of formalized approval. Documentation standards are based off of how software within similar categories documented their software.
 
 4. **How will this be integrated w/ Substrate? Will it be a module? How will it be programmed?**
 
-**Answer:**
+**Answer:** Mostly likely we will do some sort of module or pallet and integrate it with an example chain. If plans change, it will be communicated directly w/ the Web3 team. This will likely be coded in Rust and Wasm (in regards to the core code). If something is packageable as a [crates.io](crates.io) package, most likely we will fully package it along w/ its documentation.
